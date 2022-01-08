@@ -1,9 +1,10 @@
 
-  # Ornages
+  # This is my project
 
+  ![Licenses](https://img.shields.io/static/v1?label=License&message=MIT&color=BLUE)![Licenses](https://img.shields.io/static/v1?label=License&message=GNU&color=BLUE)
 
   ## Description
-  hello
+  An amazing project description
 
   ## Table of Contents
 
@@ -16,13 +17,26 @@
 
 
   ## Installation
-  wow
+  Do this and then do that
 
   ## Usage
-  amazing
+  Here are some instructions
 
-  ## Credits
-  me
+  ## Contributing
+  No collabs
 
   ## Licenses
-  MIT
+  This application is covered by MIT,GNU 
+
+  See more details about licenses <a href='https://choosealicense.com/licenses/'>here.</a>
+
+  ## Tests
+  Do this and then do that
+
+  ## Questions
+  Have questions? 
+
+  
+  GitHub: [fmills89](https://www.github.com/fmills89) 
+
+  Email: test@gmail.com

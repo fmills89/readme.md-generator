@@ -37,7 +37,7 @@ const questions = () => {
         },
         {
             type: 'input',
-            name: 'credits',
+            name: 'contributing',
             message: 'List your collaborators, if any, with links to their GitHub profiles.'
         },
         {
@@ -46,9 +46,31 @@ const questions = () => {
             message: 'Please choose all license that apply.',
             choices: ['MIT', 'Apache', "GNU", 'ISC', 'OBCD', 'None']
         },
-
+        {
+            type: 'input',
+            name: 'tests',
+            message: 'List some tests for your applications'
+        },
+        {
+            type: 'input',
+            name: 'username',
+            message: 'What is your GitHub username? (Required)',
+            validate: userinput => {
+                if (userinput) {
+                    return true;
+                } else {
+                    console.log('Please enter a GitHub username!');
+                    return false;
+                }
+            }
+        },
+        {
+            type: 'input',
+            name: 'email',
+            message: 'What is your email?'
+        }
     ])
-}
+};
 
 
 // TODO: Create a function to write README file
