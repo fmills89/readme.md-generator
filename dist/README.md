@@ -1,10 +1,10 @@
 
-  # This is my project
+  # Brew Me
 
-  ![Licenses](https://img.shields.io/static/v1?label=License&message=MIT&color=BLUE)![Licenses](https://img.shields.io/static/v1?label=License&message=GNU&color=BLUE)
+  ![Licenses](https://img.shields.io/static/v1?label=License&message=MIT&color=BLUE)
 
   ## Description
-  An amazing project description
+  Brew Me is an app that will locate breweries in which every city that the user inputs.
 
   ## Table of Contents
 
@@ -17,21 +17,21 @@
 
 
   ## Installation
-  Do this and then do that
+  Run npm install
 
   ## Usage
-  Here are some instructions
+  User enters a city and breweries are displayed for that city.
 
   ## Contributing
-  No collabs
+  None
 
   ## Licenses
-  This application is covered by MIT,GNU 
+  This application is covered by MIT.
 
   See more details about licenses <a href='https://choosealicense.com/licenses/'>here.</a>
 
   ## Tests
-  Do this and then do that
+  Input a city and breweries are returned with minor details regarding them.
 
   ## Questions
   Have questions? 
