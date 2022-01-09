@@ -19,7 +19,8 @@ Install npm to utilize inquirer and the file system.
 Using inquirer a user is asked a series of questions to generate a readme.md file.
 
 ## Screenshot
-![image](https://user-images.githubusercontent.com/89666151/148689001-5b846eb1-71e7-4046-b993-cb942e417240.png)
+![image](https://user-images.githubusercontent.com/89666151/148690179-f2b1eb6e-04dd-4f13-9f2f-c1d82ea7d6d9.png)
+
 
 ## License
 * MIT
